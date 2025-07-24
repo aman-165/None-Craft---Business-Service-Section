@@ -1,4 +1,4 @@
-<img width="1920" height="1446" alt="screencapture-file-D-Felix-It-system-AP107-TWO-indes-html-2025-07-07-16_44_28" src="https://github.com/user-attachments/assets/bc3c5a2b-f1e6-4c22-b427-86ab9c4f8b24" /># 💼 None Craft - Business Service Section
+## 💼 None Craft - Business Service Section
 
 This is a **responsive frontend section** for a business website, designed to showcase why clients should choose **None Craft**. It highlights key strengths like creativity, team expertise, and results-driven strategies — all wrapped in a modern, clean UI.
 
