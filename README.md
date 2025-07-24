@@ -66,7 +66,7 @@ Just open index.html in your browser. No dependencies required.
 
 ---
 
-##📈 Future Improvements
+## 📈 Future Improvements
 - Add animations for smoother transitions
 
 -Make it fully mobile responsive
@@ -78,19 +78,19 @@ Just open index.html in your browser. No dependencies required.
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 **Aman Patel**
 - GitHub: @aman-165
 
 
 ---
 
-##📄 License
+## 📄 License
 - This project is licensed under the MIT License.
 
 ---
 
-##🙌 Contribute
+## 🙌 Contribute
 - Pull requests are welcome! If you’d like to contribute, fork the repo and make your changes.
 
 
