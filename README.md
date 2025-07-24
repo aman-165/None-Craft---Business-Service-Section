@@ -79,8 +79,8 @@ Just open index.html in your browser. No dependencies required.
 ---
 
 ## 🧑‍💻 Author
-**Aman Patel**
-- GitHub: @aman-165
+Aman Patel
+GitHub: @aman-165
 
 
 ---
