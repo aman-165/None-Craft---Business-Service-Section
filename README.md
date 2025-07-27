@@ -94,14 +94,8 @@ Developed by [Aman-165](https://github.com/aman-165)
 - Pull requests are welcome! If you’d like to contribute, fork the repo and make your changes.
 
 
----
 
-Let me know if:
-- You want a Hindi version or bilingual version
-- You need to add hosting/live demo info
-- You’d like this file uploaded directly via Git or GitHub instructions
 
-✅ Would you like the **Git push commands** again to upload this?
 
 
 
